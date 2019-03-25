@@ -1,3 +1,3 @@
 #Calculadora
 
-Calculadora em SVG
+Calculadora em SVG programada em JavaScript PURO
