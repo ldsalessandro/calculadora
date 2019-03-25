@@ -1,3 +1,3 @@
 #Calculadora
 
-Calculadora em SGV
+Calculadora em SVG
